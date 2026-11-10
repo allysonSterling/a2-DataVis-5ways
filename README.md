@@ -126,12 +126,12 @@ We will choose some at random to run and test.
 
 # Tableau
 
-<img width="1983" height="1094" alt="tableau assignement 2 pengling" src="https://github.com/user-attachments/assets/9e700291-d4d6-409b-b48e-a6eeb43c68b0" />
+<img width="1983" height="1094" alt="pengling tableau" src="https://github.com/user-attachments/assets/b484b27b-9736-4cd9-a63c-8c9a6958a8c0" />
 Tableau generated graphic
-<img width="2712" height="1312" alt="image" src="https://github.com/user-attachments/assets/aa4a05da-1716-4832-b348-282430e74270" />
+<img width="2700" height="1303" alt="image" src="https://github.com/user-attachments/assets/ec94d424-b2b4-444b-b82f-bc2b6d707788" />
 Tableau set up 
 
-Opacity dropped from 100% to 85%. Mark size increased from 25% to 30%. Mark changed from automatic to circle. Explored filters, decided against for most accurate scale. Used color palette Tableau 10 with colors orange, purple, and teal. Decided against automatic ticks for y ticks at 1000 with minor ticks at 500. The x axis uses interval of 10 for the ticks with minor ticks at 5 intervals.
+Opacity dropped from 100% to 80%. Mark size increased from 25% to 30%. Mark changed from automatic to circle. Explored filters, decided against for most accurate scale. Used color palette Tableau 10 with colors orange, purple, and teal. Ticks for y starts at 2000 with tick intervals at 1000 with minor ticks at 500. The x axis starts at 170 uses interval of 10 for the ticks with minor ticks at 5 intervals.
 
 
 # R + ggplot2 + R Markdown
