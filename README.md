@@ -124,6 +124,16 @@ We will choose some at random to run and test.
 
 **NOTE: THE BELOW IS A SAMPLE ENTRY TO GET YOU STARTED ON YOUR README. YOU MAY DELETE THE ABOVE.**
 
+# Tableau
+
+<img width="1983" height="1094" alt="tableau assignement 2 pengling" src="https://github.com/user-attachments/assets/424d39dd-d14f-4143-842f-cb725fe727ad" />
+Tableau generated graphic
+<img width="2714" height="1328" alt="image" src="https://github.com/user-attachments/assets/1fb3d3f8-d6a5-44f1-b379-348ca3b1e7cb" />
+Tableau set up 
+
+Opacity dropped from 100% to 85%. Mark size increased from 25% to 30%. Mark changed from automatic to circle. Explored filters, decided against for most accurate scale. Used color palette Tableau 10 with colors orange, purple, and teal. Decided against automatic ticks for y ticks at 1000 with minor ticks at 500. The x axis uses interval of 10 for the ticks with minor ticks at 5 intervals.
+
+
 # R + ggplot2 + R Markdown
 
 R is a language primarily focused on statistical computing.
