@@ -142,9 +142,9 @@ Data read using pandas read_csv function. Changed colors to dark2 scheme for gen
 
 # R + ggplot2
 
-<img width="1639" height="1426" alt="image" src="https://github.com/user-attachments/assets/12c9c5f8-a1df-40e2-a433-f558bb09f1dd" />
+<img width="1639" height="1435" alt="image" src="https://github.com/user-attachments/assets/cfa81c1e-a644-4dd3-8159-e3cb4071edd7" />
 
-used geom_point alpha to set opacity to 80%, scale_color_manual to set colors to orange purple and torquoise, and labs to set x and y labels. Already set to start at 170 for x axis and 2500 for y axis. Scaled points to a range from 1 to 10.
+used geom_point alpha to set opacity to 80%, scale_color_manual to set colors to orange:#ff8e08, purple: #9933cc, and teal: #158f8f, and labs to set x and y labels. Already set to start at 170 for x axis and 2500 for y axis. Scaled points to a range from 1 to 10.
 
 # Example
 
