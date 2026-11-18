@@ -138,7 +138,7 @@ Opacity dropped from 100% to 80%. Mark size increased from 25% to 30%. Mark chan
 
 <img width="883" height="624" alt="image" src="https://github.com/user-attachments/assets/929cf8eb-850d-4918-bfff-56e9f36a920f" />
 
-Data read using pandas read_csv function. Used `scale(domain=domain,range=colors)` to set `colors=["#ff8e08","#9933cc","#158f8f"]`. Opacity set to 80%. Already set to start at 170 for x axis and 2500 for y axis because `.scale(zero=False)` allows autoscaling. 
+Data read using pandas read_csv function. Used `scale(domain=domain,range=colors)` to set `colors=["#ff8e08","#9933cc","#158f8f"]`. Opacity set to 80%. Already set to start at 170 for x axis and 2500 for y axis because `.scale(zero=False)` allows autoscaling. Also changed background colors by configuring background and axis grid color.
 
 # R + ggplot2
 
