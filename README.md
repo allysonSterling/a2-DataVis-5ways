@@ -140,7 +140,13 @@ Opacity dropped from 100% to 80%. Mark size increased from 25% to 30%. Mark chan
 
 Data read using pandas read_csv function. Changed colors to dark2 scheme for general similar colors, but unable to get same color correlated to same species. Opacity set to 80%. Already set to start at 170 for x axis and 2500 for y axis. 
 
-# R + ggplot2 + R Markdown
+# R + ggplot2
+
+<img width="1639" height="1426" alt="image" src="https://github.com/user-attachments/assets/12c9c5f8-a1df-40e2-a433-f558bb09f1dd" />
+
+used geom_point alpha to set opacity to 80%, scale_color_manual to set colors to orange purple and torquoise, and labs to set x and y labels. Already set to start at 170 for x axis and 2500 for y axis. Scaled points to a range from 1 to 10.
+
+# Example
 
 R is a language primarily focused on statistical computing.
 ggplot2 is a popular library for charting in R.
