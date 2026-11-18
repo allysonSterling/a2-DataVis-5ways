@@ -131,8 +131,14 @@ Tableau generated graphic
 <img width="2700" height="1303" alt="image" src="https://github.com/user-attachments/assets/ec94d424-b2b4-444b-b82f-bc2b6d707788" />
 Tableau set up 
 
+
 Opacity dropped from 100% to 80%. Mark size increased from 25% to 30%. Mark changed from automatic to circle. Explored filters, decided against for most accurate scale. Used color palette Tableau 10 with colors orange, purple, and teal. Ticks for y starts at 2000 with tick intervals at 1000 with minor ticks at 500. The x axis starts at 170 uses interval of 10 for the ticks with minor ticks at 5 intervals.
 
+# Python + Altair
+
+<img width="824" height="635" alt="image" src="https://github.com/user-attachments/assets/4ab94c7f-a61b-49c7-be43-62e1b99e6d90" />
+
+Data read using pandas read_csv function. Changed colors to dark2 scheme for general similar colors, but unable to get same color correlated to same species. Opacity set to 80%. Already set to start at 170 for x axis and 2500 for y axis. 
 
 # R + ggplot2 + R Markdown
 
