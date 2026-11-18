@@ -144,7 +144,11 @@ Data read using pandas read_csv function. Changed colors to dark2 scheme for gen
 
 <img width="1639" height="1435" alt="image" src="https://github.com/user-attachments/assets/cfa81c1e-a644-4dd3-8159-e3cb4071edd7" />
 
-used geom_point alpha to set opacity to 80%, scale_color_manual to set colors to orange:#ff8e08, purple: #9933cc, and teal: #158f8f, and labs to set x and y labels. Already set to start at 170 for x axis and 2500 for y axis. Scaled points to a range from 1 to 10.
+used `geom_point` alpha to set opacity to 80%, `scale_color_manual()` to set colors to orange:#ff8e08, purple: #9933cc, and teal: #158f8f, and `labs()` to set x and y labels. Already set to start at 170 for x axis and 2500 for y axis. Scaled points to a range from 1 to 10.
+
+# d3
+
+
 
 # Example
 
@@ -157,10 +161,6 @@ To visualize the penguins dataset, I made use of ggplot2's `geom_point()` layer,
 While it takes time to find the correct documentation, these functions made the effort creating this chart minimal.
 
 ![ggplot2](img/ggplot2.png)
-
-# d3...
-
-(And so on...)
 
 
 ## Technical Achievements
