@@ -146,6 +146,12 @@ Data read using pandas read_csv function. Used `scale(domain=domain,range=colors
 
 used `geom_point` alpha to set opacity to 80%, `scale_color_manual()` to set colors to orange:#ff8e08, purple: #9933cc, and teal: #158f8f, and `labs()` to set x and y labels. Already set to start at 170 for x axis and 2500 for y axis. Scaled points to a range from 1 to 10.
 
+# MATLAB
+
+<img width="1099" height="1064" alt="image" src="https://github.com/user-attachments/assets/9babe347-28ab-4625-8095-45398c817c41" />
+
+split species into separate datasets to overlay on the same graph. Used `tiledlayout("flow")` to put all species on same chart by keeping them on one tile. Set bubble size to low of 5, high of 20. Used `MarkerFaceColor` and `MarkerEdgeColor` for each separate species graph with the associated colors orange:#ff8e08, purple: #9933cc, and teal: #158f8f, along with `MarkerFaceOpacity` set to 0.8. I then turned on the grid, and set the color, grid color, and grid line width. I used the `bubblelegend` and `legend` functions to create the two legends with both positioned to the right of the chart using `.Layout.Tile = "east"` and the bubble size order switched to ascending.
+
 # d3
 
 
