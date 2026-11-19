@@ -154,7 +154,10 @@ split species into separate datasets to overlay on the same graph. Used `tiledla
 
 # d3
 
+<img width="946" height="719" alt="image" src="https://github.com/user-attachments/assets/798f0226-371e-4e9c-9336-f4764fd38903" />
 
+
+I used `scaleOrdinal` with the species defiend for the domain and the colors orange:#ff8e08, purple: #9933cc, and teal: #158f8f for the range. style was used to apply both the previously defined colors and the opacityto 0.8. appended a rectangle background to add background color and when defining the scale using `saleLinear` going from 170 to 235 on x and 2500 to 6500 on y, added ticks of a noticable size and similar color to the original. When adding labels to the y-axis, I had to rotate it -90 degrees to sit properly on the axis instead of having a built in feature. For the legends, I was able to specifically identify which sizes I wanted the size legend to present (40, 50) and place them based on the size times a multiplier to make them not overlaid. The color legend I was able to control the size of the circles for the color.
 
 # Example
 
